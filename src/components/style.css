@@ -42,3 +42,33 @@ html{
     text-decoration: none;
     
 }
+.center1{
+    padding-left: 40.3%;
+    padding-top: 3%;
+}
+.blog-title{
+    color: #D23669;
+    font-size: 30px;
+    font-weight: 900;
+}
+.time{
+    padding-top: 5px;
+    
+}
+.blog p{
+    padding-top: 5px;
+}
+.blog{
+    width: 50%;
+    background: #ffffff;
+    box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+    padding: 7px 5px;
+    border-radius: 10px;
+   
+}
+.bloglist{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+
+}
